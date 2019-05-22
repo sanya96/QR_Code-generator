@@ -1,0 +1,11 @@
+#placeHolder{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+svg{
+    width: 150px !important;
+    height: 150px !important;
+    margin: 0 auto;
+    
+}

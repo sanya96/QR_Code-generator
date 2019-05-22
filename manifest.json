@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "QR-code generator",
+    "description": "QR-code generator for URL",
+    "version": "1.0",
+    "browser_action": {      
+        "default_popup": "popup.html"
+    },
+
+	"icons": { "16": "qrcode.png",
+               "48": "qrcode.png",
+               "128": "qrcode.png" },	
+            
+    "permissions": ["tabs"]
+}
